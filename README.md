@@ -1,7 +1,7 @@
-# three_r
+# 3R
 
-A new Flutter project.
-
+A Flutter App that focuses on segregating waste.
+It follows the 3Rs - Reduce, Reuse, & Recycle
 ## Getting Started
 
 This project is a starting point for a Flutter application.
